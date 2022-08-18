@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Java Devloper**
 
-- 👨‍💻 All of my projects are available at [https://prafultelgote-portfolio.netlify.app/](https://prafultelgote-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Praful_Telgote](https://prafultelgote.netlify.app/)
 
 - 📫 How to reach me **prafuletlgote4@gmail.com**
 
