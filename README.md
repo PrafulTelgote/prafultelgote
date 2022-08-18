@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **prafuletlgote4@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/110GUCaxwGvJl0SWJ1lNsHaZ2WGiOTGEx/view)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1pRc25XermV97dKiZUQRt1gPMf9dyar1V/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
