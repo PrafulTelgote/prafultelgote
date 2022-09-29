@@ -40,15 +40,16 @@
 
 <h3 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prafultelgote&show_icons=true&locale=en&layout=compact" alt="prafultelgote" /></p>
-<br/>
 
+<br/>
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prafultelgote&show_icons=true&locale=en" alt="prafultelgote" /></p>
 <br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prafultelgote&" alt="prafultelgote" /></p>
 
 <br/>
-<a href="https://github.com/POPEYE-jpg/github-readme-activity-graph"><img alt="Praful's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prafultelgote&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/prafultelgote/github-readme-activity-graph"><img alt="Praful's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prafultelgote&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <p align="center"> <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"> </p>
