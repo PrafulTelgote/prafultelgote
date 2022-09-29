@@ -41,7 +41,6 @@
 <h3 align="left">Github Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prafultelgote&show_icons=true&locale=en&layout=compact" alt="prafultelgote" /></p>
 <br/>
-<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prafultelgote&show_icons=true&locale=en" alt="prafultelgote" /></p>
 <br/>
 
