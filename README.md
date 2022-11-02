@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on [Student Management System](https://github.com/PrafulTelgote/Student-Management-App)
 
-- 👨‍💻 All of my projects are available at [Praful_Telgote](https://prafultelgote-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Praful_Telgote](https://prafultelgote.netlify.app/)
 
 - 💬 Ask me about **what you earn**
 
