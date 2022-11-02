@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **prafuletlgote4@gmail.com**
 
-- 📄 Know about my experiences [Er.Praful Telgote](https://drive.google.com/file/d/110GUCaxwGvJl0SWJ1lNsHaZ2WGiOTGEx/view)
+- 📄 Know about my experiences [Er.Praful Telgote](https://drive.google.com/file/d/1OGu1LizgrDF7mLpxFajEEOrlDoEcKuKu/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/praful-telgote-91874a1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praful-telgote-91874a1b6/" height="30" width="40" /></a>
