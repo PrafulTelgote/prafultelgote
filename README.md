@@ -22,13 +22,13 @@
 
 - 👯 I’m looking to collaborate on [Student Management System](https://github.com/PrafulTelgote/Student-Management-App)
 
-- 👨‍💻 All of my projects are available at [Praful_Telgote](https://prafultelgote.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://prafultelgote.netlify.app/)
 
 - 💬 Ask me about **what you earn**
 
 - 📫 How to reach me **prafuletlgote4@gmail.com**
 
-- 📄 Know about my experiences [Er.Praful Telgote](https://drive.google.com/file/d/1OGu1LizgrDF7mLpxFajEEOrlDoEcKuKu/view?usp=sharing)
+- 📄 Know about my experiences [Er.Praful Telgote](https://drive.google.com/file/d/1utexU4k5HaMJQDo5QQc4WTZ52_sFRIHp/view?usp=share_link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/praful-telgote-91874a1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praful-telgote-91874a1b6/" height="30" width="40" /></a>
